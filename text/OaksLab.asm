@@ -1,7 +1,8 @@
 _OaksLabRivalGrampsIsntAroundText::
-	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
-	cont "isn't around!"
+	text "<RIVAL>: Hi"
+	line "<PLAYER>! PROF."
+	cont "OAK isn't here"
+	cont "yet."
 	done
 
 _OaksLabRivalGoAheadAndChooseText::

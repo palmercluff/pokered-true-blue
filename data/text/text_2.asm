@@ -1730,10 +1730,11 @@ _IntroducePlayerText::
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "This is your"
+	line "neighbor. He's"
+	cont "been your rival"
+	cont "since you were a"
+	cont "baby."
 
 	para "...Erm, what is"
 	line "his name again?"

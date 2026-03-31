@@ -186,9 +186,10 @@ _OaksLabGirlText::
 	done
 
 _OaksLabRivalFedUpWithWaitingText::
-	text "<RIVAL>: Gramps!"
-	line "I'm fed up with"
-	cont "waiting!"
+	text "<RIVAL>: PROF."
+	line "OAK! I'm ready"
+	cont "for my first"
+	cont "#MON!"
 	done
 
 _OaksLabOakChooseMonText::
@@ -221,8 +222,8 @@ _OaksLabOakChooseMonText::
 
 _OaksLabRivalWhatAboutMeText::
 	text "<RIVAL>: Hey!"
-	line "Gramps! What"
-	cont "about me?"
+	line "PROF.OAK! I was"
+	cont "here first!"
 	done
 
 _OaksLabOakBePatientText::
@@ -276,8 +277,9 @@ _OaksLabRivalSmellYouLaterText::
 	cont "#MON fight to"
 	cont "toughen it up!"
 
-	para "<PLAYER>! Gramps!"
-	line "Smell you later!"
+	para "<PLAYER>! PROF."
+	line "OAK! See you"
+	cont "later!"
 	done
 
 _OaksLabRivalGrampsText::

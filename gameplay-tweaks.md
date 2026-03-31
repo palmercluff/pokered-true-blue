@@ -89,4 +89,3 @@ First box is for Palmer; second box is for Lincoln
 
 ## 11. Indigo Plateau
 
-
